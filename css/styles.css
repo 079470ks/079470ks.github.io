@@ -1,0 +1,14 @@
+body {
+    /*lettertype*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*achtergrondkleur*/
+    background-color: aqua;
+}
+img{
+    /*logo onder tekst */
+    display: block;
+    /*breedte wijzigen*/
+    width: 100px;
+    /*extra ruimte*/
+    margin: 50px;
+}
